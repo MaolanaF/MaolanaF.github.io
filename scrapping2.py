@@ -1,9 +1,6 @@
 from datetime import datetime
 from selenium import webdriver
-import urllib.request
 import json
-
-import requests
 
 PATH = "E:\Kuliah\SEMESTER 2\Proyek Pengembangan perangkat lunak dekstop\Pertemuan 6\Web scrapping 2\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
