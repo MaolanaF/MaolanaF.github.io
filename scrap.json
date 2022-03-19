@@ -1,0 +1,802 @@
+[
+      {
+            "Ranking": "1",
+            "Judul": "Invu",
+            "Penyanyi": "TAEYEON",
+            "weeks_on_chart": "4",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2012/04/taeyeon-23m-180x180.jpg"
+      },
+      {
+            "Ranking": "2",
+            "Judul": "Merry-Go-Round",
+            "Penyanyi": "sokodomo Feat. Zion.T, Wonstein, Prod. by Slom",
+            "weeks_on_chart": "17",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b2734f558c990fd8ab33abf4091a"
+      },
+      {
+            "Ranking": "3",
+            "Judul": "Eleven",
+            "Penyanyi": "IVE",
+            "weeks_on_chart": "14",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2021/12/ive-000-eleven-t0i-180x180.jpg"
+      },
+      {
+            "Ranking": "4",
+            "Judul": "Run2u",
+            "Penyanyi": "STAYC",
+            "weeks_on_chart": "3",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://awsimages.detik.net.id/community/media/visual/2021/09/08/stayc_43.jpeg?w=700&q=90"
+      },
+      {
+            "Ranking": "5",
+            "Judul": "Traffic Light",
+            "Penyanyi": "Lee Mujin",
+            "weeks_on_chart": "40",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/20210427%E2%80%94Lee_Mu-jin_%EC%9D%B4%EB%AC%B4%EC%A7%84%2C_interview%2C_Marie_Claire_Korea_screenshot_%2805m55s%29.jpg"
+      },
+      {
+            "Ranking": "6",
+            "Judul": "Strawberry Moon",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "21",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "7",
+            "Judul": "DrunKen Confession",
+            "Penyanyi": "Kim Minseok",
+            "weeks_on_chart": "11",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kpopstan.com/wp-content/uploads/2019/08/ZgOlr4.jpg"
+      },
+      {
+            "Ranking": "8",
+            "Judul": "Next Level",
+            "Penyanyi": "aespa",
+            "weeks_on_chart": "43",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2020/11/aespa-oda-180x180.jpg"
+      },
+      {
+            "Ranking": "9",
+            "Judul": "Smiley",
+            "Penyanyi": "Yena Featuring Bibi",
+            "weeks_on_chart": "7",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd"
+      },
+      {
+            "Ranking": "10",
+            "Judul": "Do You Want To Hear",
+            "Penyanyi": "MSG WANNABE (M.O.M)",
+            "weeks_on_chart": "2",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://blogger.googleusercontent.com/img/a/AVvXsEi1vNzoJKEX3jAmBASyUbu3J-Gtt6jE2cLALgFHSSk-WXdzgFBlUgb9z0KBO5anY9EHimwWIqQrvEeTQpFg07FyEs5O_MyQxT-Y-jvRNcaQGU7X6An8730s-QdOQlYDwcCrIw7z3zXLJVGTrnW0ddDAm-3yoB4rKxzoxgamYcu2mnoSrMbcPbOR-k32xQ=s320"
+      },
+      {
+            "Ranking": "11",
+            "Judul": "Limousine",
+            "Penyanyi": "BE'O Feat. MINO Prod. GRAY",
+            "weeks_on_chart": "16",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i1.sndcdn.com/artworks-OrFUZo9ruZ7mYORx-ktIC3Q-t500x500.jpg"
+      },
+      {
+            "Ranking": "12",
+            "Judul": "Step Back",
+            "Penyanyi": "GOT The Beat",
+            "weeks_on_chart": "10",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/12/27/513125763.png"
+      },
+      {
+            "Ranking": "13",
+            "Judul": "Love Always Run Away",
+            "Penyanyi": "Lim Young Woong",
+            "weeks_on_chart": "21",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2021/10/Young-Lady-and-Gentleman-OST-Part-2.jpg"
+      },
+      {
+            "Ranking": "14",
+            "Judul": "Weekend",
+            "Penyanyi": "TAEYEON",
+            "weeks_on_chart": "36",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2012/04/taeyeon-23m-180x180.jpg"
+      },
+      {
+            "Ranking": "15",
+            "Judul": "Lilac",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "50",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "16",
+            "Judul": "Nakka",
+            "Penyanyi": "AKMU With IU",
+            "weeks_on_chart": "33",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b273d66b542a97ff4311e8474354"
+      },
+      {
+            "Ranking": "17",
+            "Judul": "Every Moment Of You",
+            "Penyanyi": "Sung Si-Kyung",
+            "weeks_on_chart": "65",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kkromanized.files.wordpress.com/2014/02/sung-shikyung-mfts.jpg"
+      },
+      {
+            "Ranking": "18",
+            "Judul": "When it snows",
+            "Penyanyi": "Lee Mujin Feat. Heize",
+            "weeks_on_chart": "14",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.ytimg.com/vi/dQwTDrV7D-U/mqdefault.jpg"
+      },
+      {
+            "Ranking": "19",
+            "Judul": "Dreams Come True",
+            "Penyanyi": "aespa",
+            "weeks_on_chart": "12",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/12/21/2995935551.jpg"
+      },
+      {
+            "Ranking": "20",
+            "Judul": "Dynamite",
+            "Penyanyi": "BTS",
+            "weeks_on_chart": "82",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BTS_-_Dynamite_%28official_cover%29.png"
+      },
+      {
+            "Ranking": "21",
+            "Judul": "How Can I Love The Heartbreak, You're The One I Love",
+            "Penyanyi": "AKMU",
+            "weeks_on_chart": "130",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://imgx.sonora.id/crop/0x0:0x0/360x240/photo/2020/11/16/3997828869.jpeg"
+      },
+      {
+            "Ranking": "22",
+            "Judul": "Drama",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "11",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "23",
+            "Judul": "Permission To Dance",
+            "Penyanyi": "BTS",
+            "weeks_on_chart": "35",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://upload.wikimedia.org/wikipedia/en/0/04/BTS_-_Permission_to_Dance.png"
+      },
+      {
+            "Ranking": "24",
+            "Judul": "Butter",
+            "Penyanyi": "BTS",
+            "weeks_on_chart": "42",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/BTS_-_Butter.png/220px-BTS_-_Butter.png"
+      },
+      {
+            "Ranking": "25",
+            "Judul": "Shiny Star (2020)",
+            "Penyanyi": "KyoungSeo",
+            "weeks_on_chart": "69",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b273d5ee449561462667a80f3e8d"
+      },
+      {
+            "Ranking": "26",
+            "Judul": "Celebrity",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "59",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "27",
+            "Judul": "Winter Sleep",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "11",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "28",
+            "Judul": "Like Yesterday",
+            "Penyanyi": "Paul Kim",
+            "weeks_on_chart": "2",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://images.genius.com/1c4ba66a9d4eff43a0156e78615d29fa.1000x1000x1.png"
+      },
+      {
+            "Ranking": "29",
+            "Judul": "Foolish Love",
+            "Penyanyi": "M.O.M",
+            "weeks_on_chart": "37",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b2738faab64d69d172e3e8d8f085"
+      },
+      {
+            "Ranking": "30",
+            "Judul": "Savage",
+            "Penyanyi": "aespa",
+            "weeks_on_chart": "23",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/10/aespa-Savage.jpg?fit=600%2C600&ssl=1"
+      },
+      {
+            "Ranking": "31",
+            "Judul": "Meeting Is Easy, Parting Is Hard",
+            "Penyanyi": "Basick Feat. Leellamarz Prod. TOIL",
+            "weeks_on_chart": "16",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf"
+      },
+      {
+            "Ranking": "32",
+            "Judul": "Counting Stars",
+            "Penyanyi": "Be'O Featuring Beenzino",
+            "weeks_on_chart": "13",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://images.genius.com/92be8d4026eae959eef1cbc5d5338986.1000x1000x1.png"
+      },
+      {
+            "Ranking": "33",
+            "Judul": "Through The Night",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "214",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "34",
+            "Judul": "Always love you",
+            "Penyanyi": "Kassy",
+            "weeks_on_chart": "4",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://images.genius.com/2542b77c6f6e7c28d141b37e877bbe9f.600x600x1.jpg"
+      },
+      {
+            "Ranking": "35",
+            "Judul": "Go Back",
+            "Penyanyi": "MeloMance",
+            "weeks_on_chart": "27",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b2731ee10f6a93709271dcdee916"
+      },
+      {
+            "Ranking": "36",
+            "Judul": "Can't Control Myself",
+            "Penyanyi": "TAEYEON",
+            "weeks_on_chart": "8",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2012/04/taeyeon-23m-180x180.jpg"
+      },
+      {
+            "Ranking": "37",
+            "Judul": "Rollin'",
+            "Penyanyi": "Brave Girls",
+            "weeks_on_chart": "54",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://upload.wikimedia.org/wikipedia/id/d/d5/BraveGirlsRollinEP.jpg"
+      },
+      {
+            "Ranking": "38",
+            "Judul": "Love Poem",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "125",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "39",
+            "Judul": "If You Lovingly Call My Name",
+            "Penyanyi": "Gyeongseo Yeji, Jeon Gunho",
+            "weeks_on_chart": "23",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2021/05/If-you-lovingly-call-my-name.jpg"
+      },
+      {
+            "Ranking": "40",
+            "Judul": "Dun Dun Dance",
+            "Penyanyi": "OH MY GIRL",
+            "weeks_on_chart": "44",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://koreanindo.net/wp-content/uploads/2021/04/20210419_033300.jpg"
+      },
+      {
+            "Ranking": "41",
+            "Judul": "Your Existence",
+            "Penyanyi": "Wonstein",
+            "weeks_on_chart": "2",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/03/13/1794362829.jpg"
+      },
+      {
+            "Ranking": "42",
+            "Judul": "Drawer",
+            "Penyanyi": "10cm",
+            "weeks_on_chart": "12",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2021/12/Our-Beloved-Summer-OST-Part-1.jpg"
+      },
+      {
+            "Ranking": "43",
+            "Judul": "Every Day, Every Moment",
+            "Penyanyi": "Paul Kim",
+            "weeks_on_chart": "207",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/01/Should-We-Kiss-First_-Original-Television-Soundtrack-Pt..jpg?fit=1400%2C1400&ssl=1"
+      },
+      {
+            "Ranking": "44",
+            "Judul": "Blueming",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "122",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "45",
+            "Judul": "Ohayo My Night",
+            "Penyanyi": "D-Hack, PATEKO",
+            "weeks_on_chart": "34",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/e1/d2/5b/e1d25b4f-9346-47c8-d03d-ed2c507401ea/D-Hack_PATEKO_OHAYO_MY_NIGHT.png/600x600bf-60.jpg"
+      },
+      {
+            "Ranking": "46",
+            "Judul": "Happen",
+            "Penyanyi": "HEIZE",
+            "weeks_on_chart": "42",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301"
+      },
+      {
+            "Ranking": "47",
+            "Judul": "Horangsuwolga",
+            "Penyanyi": "Tophyun",
+            "weeks_on_chart": "7",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2022/02/Tophyun-Horang-suwolga.jpg"
+      },
+      {
+            "Ranking": "48",
+            "Judul": "Spring Day",
+            "Penyanyi": "BTS",
+            "weeks_on_chart": "188",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2013/06/bts-4i5-180x180.jpg"
+      },
+      {
+            "Ranking": "49",
+            "Judul": "I Will Go To You Like The First Snow",
+            "Penyanyi": "Ailee",
+            "weeks_on_chart": "105",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Ailee_-_I_Will_Go_to_You_Like_the_First_Snow.png"
+      },
+      {
+            "Ranking": "50",
+            "Judul": "Can't Sleep",
+            "Penyanyi": "Jang Beom June",
+            "weeks_on_chart": "72",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b273a9815f5458fbc828e420c02f"
+      },
+      {
+            "Ranking": "51",
+            "Judul": "Slightly Tipsy",
+            "Penyanyi": "SANDEUL",
+            "weeks_on_chart": "86",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://1.bp.blogspot.com/-AYY3l8qdvMM/XxV8E7UHibI/AAAAAAAARSQ/PO9hTO9Pwm0ttB_I0Q8tpOndjSmNebSmgCLcBGAsYHQ/s1600/Sandeul___Slightly_Tipsy%255Bk-lyrics4u.blogspot.com%255D.webp"
+      },
+      {
+            "Ranking": "52",
+            "Judul": "Hold My Hand",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "59",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "53",
+            "Judul": "Dissonance",
+            "Penyanyi": "Mudd the student Feat. AKMU Prod. GRAY",
+            "weeks_on_chart": "15",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b27323141b66a79432dd75c2b72c"
+      },
+      {
+            "Ranking": "54",
+            "Judul": "ASAP",
+            "Penyanyi": "STAYC",
+            "weeks_on_chart": "48",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/04/STAYC-Staydom.jpg?fit=600%2C600&ssl=1"
+      },
+      {
+            "Ranking": "55",
+            "Judul": "Starlight",
+            "Penyanyi": "TAEIL",
+            "weeks_on_chart": "2",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2022/02/Twenty-Five-Twenty-One-OST-Part-1.jpg"
+      },
+      {
+            "Ranking": "56",
+            "Judul": "Timeless",
+            "Penyanyi": "SG Wannabe",
+            "weeks_on_chart": "47",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://t1.daumcdn.net/cfile/tistory/99FDBE415A4F04B21A"
+      },
+      {
+            "Ranking": "57",
+            "Judul": "Gray So Gray",
+            "Penyanyi": "EPIK HIGH Feat.Younha",
+            "weeks_on_chart": "4",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.ytimg.com/vi/bfUtjvfdcXc/maxresdefault.jpg"
+      },
+      {
+            "Ranking": "58",
+            "Judul": "Maybe If",
+            "Penyanyi": "Bibi",
+            "weeks_on_chart": "12",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2021/12/Our-Beloved-Summer-OST-Part-2.jpg"
+      },
+      {
+            "Ranking": "59",
+            "Judul": "Lovesick Girls",
+            "Penyanyi": "BLACKPINK",
+            "weeks_on_chart": "75",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Blackpink_-_Lovesick_Girls.png"
+      },
+      {
+            "Ranking": "60",
+            "Judul": "Bop Bop!",
+            "Penyanyi": "VIVIZ",
+            "weeks_on_chart": "4",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://images.genius.com/bbd8fedef31516d7ed99fadd6af939bc.1000x1000x1.jpg"
+      },
+      {
+            "Ranking": "61",
+            "Judul": "Dumb Dumb",
+            "Penyanyi": "SOMI",
+            "weeks_on_chart": "31",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Dumb_Dumb_-_cover.png"
+      },
+      {
+            "Ranking": "62",
+            "Judul": "Love, Maybe",
+            "Penyanyi": "MeloMance",
+            "weeks_on_chart": "2",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://images.genius.com/8a8aa9c01ef7d0eca1e13acfd7cc6705.600x600x1.jpg"
+      },
+      {
+            "Ranking": "63",
+            "Judul": "Space",
+            "Penyanyi": "BOL4",
+            "weeks_on_chart": "19",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2021/10/BOL4-Butterfly-Effect.jpg"
+      },
+      {
+            "Ranking": "64",
+            "Judul": "NEW",
+            "Penyanyi": "Holding hands or walking together.",
+            "weeks_on_chart": "64",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.ytimg.com/vi/XkYWZYKNxJA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4eBhFbq0OVO0GmBmG4QLUtW-qhg"
+      },
+      {
+            "Ranking": "65",
+            "Judul": "Think About You",
+            "Penyanyi": "Joosiq",
+            "weeks_on_chart": "23",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.ytimg.com/vi/n-RIaaAyc_Y/maxresdefault.jpg"
+      },
+      {
+            "Ranking": "66",
+            "Judul": "Queendom",
+            "Penyanyi": "Red Velvet",
+            "weeks_on_chart": "30",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2014/08/red-velvet-tvm-180x180.jpg"
+      },
+      {
+            "Ranking": "67",
+            "Judul": "Very, Slowly",
+            "Penyanyi": "BIBI",
+            "weeks_on_chart": "2",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://images.genius.com/096712070bebf1804ec3c75928fc7da2.600x600x1.jpg"
+      },
+      {
+            "Ranking": "68",
+            "Judul": "Christmas Tree",
+            "Penyanyi": "V",
+            "weeks_on_chart": "11",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2022/01/v-000-christmas-tree-1oc-180x180.jpg"
+      },
+      {
+            "Ranking": "69",
+            "Judul": "Some Nights",
+            "Penyanyi": "TAEYEON",
+            "weeks_on_chart": "4",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2012/04/taeyeon-23m-180x180.jpg"
+      },
+      {
+            "Ranking": "70",
+            "Judul": "Wake Up",
+            "Penyanyi": "Gaeko, Ourealgoat, SINCE, Ahn Byeong Woong, Tabber, Gwangil Jo Prod. CODE KUNST",
+            "weeks_on_chart": "18",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://linkstorage.linkfire.com/medialinks/images/debba01e-cea3-411a-aad5-681e94714998/artwork-440x440.jpg"
+      },
+      {
+            "Ranking": "71",
+            "Judul": "Two People",
+            "Penyanyi": "Sung Si-Kyung",
+            "weeks_on_chart": "13",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "http://i.ebayimg.com/00/s/NTMxWDYwMA==/$(KGrHqF,!okE8(53tk6qBPJrN!6DMw~~60_35.JPG"
+      },
+      {
+            "Ranking": "72",
+            "Judul": "Your Shampoo Scent In The Flowers",
+            "Penyanyi": "Jang Beom June",
+            "weeks_on_chart": "135",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://popgasa1.files.wordpress.com/2019/09/3293030.jpg"
+      },
+      {
+            "Ranking": "73",
+            "Judul": "On The Street",
+            "Penyanyi": "Sung Si-Kyung",
+            "weeks_on_chart": "12",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i1.sndcdn.com/artworks-000125720290-ul8i9o-t500x500.jpg"
+      },
+      {
+            "Ranking": "74",
+            "Judul": "White Snow",
+            "Penyanyi": "Monday Kiz",
+            "weeks_on_chart": "12",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i1.sndcdn.com/artworks-GKbWbaJaiONjchvr-ud9sFA-t500x500.jpg"
+      },
+      {
+            "Ranking": "75",
+            "Judul": "Breathe",
+            "Penyanyi": "Anandelight, unofficialboyy, BE'O, Geegooin, Mudd the student Feat. MINO, Prod. GRAY",
+            "weeks_on_chart": "18",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://musike.net/wp-content/uploads/2021/11/10765081_20211105144652_500.jpg"
+      },
+      {
+            "Ranking": "76",
+            "Judul": "Closely Far Away",
+            "Penyanyi": "CAR, THE GARDEN",
+            "weeks_on_chart": "28",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b2735715142fe7cecb7729304426"
+      },
+      {
+            "Ranking": "77",
+            "Judul": "Wa Da Da",
+            "Penyanyi": "Kep1er",
+            "weeks_on_chart": "7",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4940f3f0-29a6-46b4-8767-683e2fc96d64/dexowku-9128bec3-f3e8-40cf-a0f5-59ee5d616472.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ5NDBmM2YwLTI5YTYtNDZiNC04NzY3LTY4M2UyZmM5NmQ2NFwvZGV4b3drdS05MTI4YmVjMy1mM2U4LTQwY2YtYTBmNS01OWVlNWQ2MTY0NzIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yyrTXu23McVq30S2fNQ4nCxoqMskbMk9r6VORxxxeyg"
+      },
+      {
+            "Ranking": "78",
+            "Judul": "DM",
+            "Penyanyi": "fromis_9",
+            "weeks_on_chart": "7",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/17/803214577.jpg"
+      },
+      {
+            "Ranking": "79",
+            "Judul": "Four Seasons",
+            "Penyanyi": "TAEYEON",
+            "weeks_on_chart": "145",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2012/04/taeyeon-23m-180x180.jpg"
+      },
+      {
+            "Ranking": "80",
+            "Judul": "eight",
+            "Penyanyi": "IU (Prod.& Feat. SUGA of BTS)",
+            "weeks_on_chart": "98",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/IU-eight.jpg?fit=1000%2C1000&ssl=1"
+      },
+      {
+            "Ranking": "81",
+            "Judul": "It Has To Be You",
+            "Penyanyi": "Monday Kiz",
+            "weeks_on_chart": "5",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab67616d0000b2737f72fc926728fbde69a9b69f"
+      },
+      {
+            "Ranking": "82",
+            "Judul": "The Song",
+            "Penyanyi": "BTOB",
+            "weeks_on_chart": "3",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/02/21/635864277.jpg"
+      },
+      {
+            "Ranking": "83",
+            "Judul": "How Can I Forget You",
+            "Penyanyi": "Noel",
+            "weeks_on_chart": "4",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://images.genius.com/43d4f29d1d367c0be7ebd6dd7959b3b8.1000x1000x1.png"
+      },
+      {
+            "Ranking": "84",
+            "Judul": "The Giving Tree",
+            "Penyanyi": "Lee Seung Hoon",
+            "weeks_on_chart": "9",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2022/01/Our-Beloved-Summer-OST-Part-7.jpg"
+      },
+      {
+            "Ranking": "85",
+            "Judul": "For Lovers Who Hesitate",
+            "Penyanyi": "JANNABI",
+            "weeks_on_chart": "136",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/04/Cover.jpg?fit=1500%2C1500&ssl=1"
+      },
+      {
+            "Ranking": "86",
+            "Judul": "Suddenly",
+            "Penyanyi": "Be'o",
+            "weeks_on_chart": "16",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2021/12/BEO-Bipolar.jpg"
+      },
+      {
+            "Ranking": "87",
+            "Judul": "Black Mamba",
+            "Penyanyi": "aespa",
+            "weeks_on_chart": "68",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2020/11/aespa-oda-black-mamba-vb0-180x180.jpg"
+      },
+      {
+            "Ranking": "88",
+            "Judul": "NEW",
+            "Penyanyi": "O.O",
+            "weeks_on_chart": "88",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://cdn0-production-images-kly.akamaized.net/NUxoSCBsTUe5_Ccg8I7muE9-c40=/0x399:1500x1244/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3942784/original/052129800_1645585087-NMIXX_Ad_Mare.jpg"
+      },
+      {
+            "Ranking": "89",
+            "Judul": "Me After You",
+            "Penyanyi": "Me After You",
+            "weeks_on_chart": "167",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/01/paul-kim-me-after-you.jpg?fit=1024%2C1024&ssl=1"
+      },
+      {
+            "Ranking": "90",
+            "Judul": "Yesterday You Left Me",
+            "Penyanyi": "10cm",
+            "weeks_on_chart": "17",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i1.sndcdn.com/artworks-PreJss4mjEWkpEth-QJr1mw-t500x500.jpg"
+      },
+      {
+            "Ranking": "91",
+            "Judul": "My Sea",
+            "Penyanyi": "IU",
+            "weeks_on_chart": "46",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34"
+      },
+      {
+            "Ranking": "92",
+            "Judul": "RE- ENTRY",
+            "Penyanyi": "Not Spring, Love Or Cherry Blossoms",
+            "weeks_on_chart": "33",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2014/05/iuhigh4-notspringorcherryblossoms.jpg?fit=300%2C300&ssl=1"
+      },
+      {
+            "Ranking": "93",
+            "Judul": "NEW",
+            "Penyanyi": "I Miss You",
+            "weeks_on_chart": "93",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://image.winudf.com/v2/image/bWlzcy55b3UubGF0ZXN0LmltYWdlcy5oZF9zY3JlZW5fMF8xNTE4MDkwMDI2XzA2OA/screen-0.jpg?fakeurl=1&type=.jpg"
+      },
+      {
+            "Ranking": "94",
+            "Judul": "Dilemma",
+            "Penyanyi": "Apink",
+            "weeks_on_chart": "4",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2011/09/apink-71d-180x180.jpg"
+      },
+      {
+            "Ranking": "95",
+            "Judul": "Rain And You",
+            "Penyanyi": "Lee Mujin",
+            "weeks_on_chart": "38",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://kgasa.com/wp-content/uploads/2021/06/Hospital-Playlist-2-OST-Part-1.jpg"
+      },
+      {
+            "Ranking": "96",
+            "Judul": "Too Painful Love Was Not Love",
+            "Penyanyi": "SingAgain2 Singer No.33",
+            "weeks_on_chart": "9",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://angartwork.akamaized.net/?id=151985825&size=640"
+      },
+      {
+            "Ranking": "97",
+            "Judul": "Dolphin",
+            "Penyanyi": "OH MY GIRL",
+            "weeks_on_chart": "96",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2015/10/oh-my-girl-61l-180x180.jpg"
+      },
+      {
+            "Ranking": "98",
+            "Judul": "It's Strange, With You",
+            "Penyanyi": "Acoustic Collabo",
+            "weeks_on_chart": "12",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/cc/39/92/cc3992d2-385b-419c-39ea-ff389e9a915b/F09_000000000556599_1.jpg/400x400cc.jpg"
+      },
+      {
+            "Ranking": "99",
+            "Judul": "Polaroid Love",
+            "Penyanyi": "ENHYPEN",
+            "weeks_on_chart": "5",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://charts-static.billboard.com/img/2020/12/enhypen-g89-180x180.jpg"
+      },
+      {
+            "Ranking": "100",
+            "Judul": "RE- ENTRY",
+            "Penyanyi": "Friday",
+            "weeks_on_chart": "49",
+            "waktu_scraping": "2022-03-19 pukul 00:21:47",
+            "Image": "https://i.ytimg.com/vi/sl27_dzWt_0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTpGiQiy2r_HnW0FX_QrVxuWqw3Q"
+      }
+]
