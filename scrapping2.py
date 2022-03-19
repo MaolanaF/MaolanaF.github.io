@@ -10,7 +10,6 @@ x = datetime.now()
 
 billboard = []
 
-
 for song in driver.find_elements_by_class_name("o-chart-results-list-row"):
     print(song.text)
     for img in song.find_elements_by_class_name("c-lazy-image__img"):
